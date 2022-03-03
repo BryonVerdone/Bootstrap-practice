@@ -2,3 +2,16 @@
   margin: 0;
   box-sizing: border-box;
 }
+.hero-section {
+  max-height: 600px;
+}
+.about-section {
+  background: grey;
+  height: 100%;
+}
+.one {
+  /* height: 100%; */
+}
+.two {
+  height: 50%;
+}
